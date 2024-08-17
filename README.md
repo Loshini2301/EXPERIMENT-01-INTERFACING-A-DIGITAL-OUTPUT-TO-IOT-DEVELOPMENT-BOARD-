@@ -1,12 +1,11 @@
-###  DATE: 17/08/2024
 
+# EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
+
+
+###  DATE: 17/08/2024
 ###  NAME: Loshini.G
 ###  ROLL NO :212223220051
 ###  DEPARTMENT: IT
-
-
-
-# EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 ## Aim: To Interface a Digital output (LED) to ARM IOT development board and write a  program to blink an led 
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
